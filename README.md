@@ -8,7 +8,7 @@
 
 💡 I’m always open to collaborating on **open-source projects** and contributing to **innovative DevOps/Cloud engineering solutions**.
 
-📫 Feel free to connect with me on [![LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://linkedin.com/in/sanjid-salam) or reach out via email at [sanjid.salam.p@gmail.com].
+📫 Feel free to connect with me on LinkedIn https://linkedin.com/in/sanjid-salam or reach out via email at [sanjid.salam.p@gmail.com].
 
 # Lets Connect
 
