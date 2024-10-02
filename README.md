@@ -23,16 +23,25 @@
 ![Shell](https://img.icons8.com/?size=48&id=10250&format=png&color=000000)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png)
+![GitLab](https://img.icons8.com/?size=48&id=34886&format=png&color=000000)
+![GitHub]https://img.icons8.com/?size=48&id=12599&format=png&color=000000
 ![Ansible](https://img.icons8.com/color/48/000000/ansible.png)
 ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
+![Azure](https://img.icons8.com/?size=48&id=81727&format=png&color=000000)
 ![Docker](https://img.icons8.com/color/48/000000/docker.png)
 ![Kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png)
 ![Terraform](https://img.icons8.com/color/48/000000/terraform.png)
+![Jira](https://img.icons8.com/?size=48&id=7EZ6mRn825lD&format=png&color=000000)
+![Terraform](https://img.icons8.com/?size=48&id=gYRR6rys6REq&format=png&color=000000)
+![Trello](https://img.icons8.com/?size=48&id=21049&format=png&color=000000)
+![Grafana](https://img.icons8.com/?size=48&id=9uVrNMu3Zx1K&format=png&color=000000)
+![Prometheus](https://img.icons8.com/?size=48&id=NrcKwdmlOBfE&format=png&color=000000)
 
 # Programming Languages:
 ![Python](https://img.icons8.com/color/48/000000/python.png)
 ![C](https://img.icons8.com/color/48/000000/c-programming.png)
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+
 <!---
 getsan4u/getsan4u is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
