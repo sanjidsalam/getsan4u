@@ -24,7 +24,7 @@
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png)
 ![GitLab](https://img.icons8.com/?size=48&id=34886&format=png&color=000000)
-![GitHub]https://img.icons8.com/?size=48&id=12599&format=png&color=000000
+![GitHub](https://img.icons8.com/?size=48&id=12599&format=png&color=000000)
 ![Ansible](https://img.icons8.com/color/48/000000/ansible.png)
 ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
 ![Azure](https://img.icons8.com/?size=48&id=81727&format=png&color=000000)
