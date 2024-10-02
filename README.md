@@ -20,7 +20,7 @@
 # Tech Stack
 ![Linux](https://img.icons8.com/color/48/000000/linux.png)
 ![Bash](https://img.icons8.com/plasticine/48/000000/bash.png)
-![Shell](https://img.icons8.com/?size=100&id=10250&format=png&color=000000)
+![Shell](https://img.icons8.com/?size=48&id=10250&format=png&color=000000)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png)
 ![Ansible](https://img.icons8.com/color/48/000000/ansible.png)
